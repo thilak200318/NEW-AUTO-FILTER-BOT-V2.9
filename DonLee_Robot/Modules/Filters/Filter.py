@@ -177,7 +177,7 @@ async def auto_filter(bot, update):
                 bot_ = FIND.get("bot_details")
                 file_link = f"https://t.me/{bot_.username}?start={unique_id}"
             if not Mo_Tech_YT.MO_TECH_YT_07:
-               button_text = f"[{file_size}]📽️ {file_name}"
+               button_text = f"🎬 [{file_size}]📂 {file_name}"
                results.append(
 
                 [
@@ -306,7 +306,7 @@ async def auto_filter(bot, update):
 
             await bot.send_photo(
                 photo=movie_url,
-                caption=f"""🎬 Title : {query}\n🗃️ Total Files : {len_results if len_results <= max_pages*8 else max_pages*8}""",
+                caption=f"""🎬 Title : {query}\n🗃️ Total Files : {len_results if len_results <= max_pages*8 else max_pages*8}</b>\n🌟 8.7/10 | IMDb\n🎭 Genres: Document, Drama, Climax Thriller""",
                 reply_markup=reply_markup,
                 chat_id=update.chat.id,
                 reply_to_message_id=update.message_id,
