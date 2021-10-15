@@ -19,6 +19,9 @@ This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Ad
 Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button
 
 ------
+### Easy Way
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farshadpyt/NEW-AUTO-FILTER-BOT-V2.9)
+### Hard Way
 
 #### FEATURE
 
