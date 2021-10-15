@@ -73,7 +73,7 @@ async def start(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              '🍿Join Group', url='t.me/Mo_Tech_YT'
+                              '🍿Join Group', url='https://t.me/cinemakodathi'
                           ),
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
