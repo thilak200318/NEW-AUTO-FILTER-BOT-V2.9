@@ -39,15 +39,15 @@ Rating Not Available</codd>
 Maintained By @Mo_Tech_YT"""
     
     ABOUT_TEXT = """
-<b>○ My Name :</b> <code>Movie Searching Bot</code>
-<b>○ Creator :</b> <a href="https://t.me/farshadck">Muhammed farshad🇵🇹</a>
-<b>○ Credits :</b> <code>Everyone in this journey</code>
-<b>○ Language :</b> <code>Python3</code>
-<b>○ Library :</b> <a href="https://docs.pyrogram.org/">Pyrogram asyncio 0.17.1</a>
-<b>○ Supported Site :</b> <a href="https://my.telegram.org/">Only Telegram</a>
-<b>○ Source Code :</b> <a href="https://t.me/botupdatechannelfarshad">👉 Click Here</a>
-<b>○ Server :</b> <a href="https://herokuapp.com/">Heroku</a>
-<b>○ Database :</b> <a href="https://www.mongodb.com/">MongoDB</a>
-<b>○ Build Status :</b> <code>V2.1 [BETA]</code>
-<b>📜 Quote :</b> <code>ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️</code>""".format(query.from_user.mention), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+<b>➥ 🤖Bot Name</b> : <b>Movie Request Bot</b>
+    
+<b>➥ 😎Creator</b> : <b>@farshadck</b> 
+
+<b>➥ 👨‍💻Editor</b> : <b>@farshad786</b>
+
+<b>➥ 🗣️Language</b> : <b>Python3</b>
+
+<b>➥ 📚Library</b> : <b>Pyrogram Asyncio 1.13.0</b>
+
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/KuttavumShikshayum_movie/8">💥Click Me</a></b>
 """
