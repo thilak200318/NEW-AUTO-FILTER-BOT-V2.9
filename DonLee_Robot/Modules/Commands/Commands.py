@@ -73,18 +73,13 @@ async def start(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              '📢Update Channel', url='t.me/Mo_Tech_YT'
+                              '🍿Join Group', url='t.me/Mo_Tech_YT'
                           ),
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              '💡More Botz', url='t.me/MT_Botz'
+                              '👩‍💻MyDev', url='https://t.me/farshadck'
                           )
-                  ],
-                  [
-                      Mo_Tech_YT.MO_TECH_YT_02
-                          (
-                              DEPLOY, url=HEROKU
-                          )
+                  
                   ],
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
