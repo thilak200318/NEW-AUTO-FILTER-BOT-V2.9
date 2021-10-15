@@ -102,7 +102,7 @@ async def help(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              DEPLOY, url=HEROKU
+                              '👩‍💻MyDev', url='https://t.me/farshadck'
                           )
                   ],
                   [   
@@ -135,7 +135,7 @@ async def about(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              DEPLOY, url=HEROKU
+                              '👩‍💻MyDev', url='https://t.me/farshadck'
                           )
                   ],
                   [
