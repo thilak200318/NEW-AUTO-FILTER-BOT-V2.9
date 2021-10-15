@@ -5,7 +5,13 @@ class Translation(object):
 
 <b>Am Just A Pro Auto Filter Bot....😉</b>
 
-<b>Maintained By @farshadck</b>"""   
+<b>Must Join My Group @cinemakodathi 🔥🔥😝</b>
+
+<b>Subscribe to the update channel to learn about my updates and activity...</b>
+
+<b>Bot Created By @farshadck🤪</b>
+
+<b>Maintained By @farshadck</b>"""    
     
     HELP_TEXT = """
 <b><u>Notice</u></b>
