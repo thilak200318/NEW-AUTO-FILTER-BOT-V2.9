@@ -3,15 +3,9 @@ class Translation(object):
   
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>Am Just A Pro Auto Filter Bot....😉</b>
+<b>𝐘𝐨..𝐘𝐨..{cmd.from_user.mention} 🙋, 𝐈'𝐦 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐌𝐞𝐝𝐢𝐚 𝐒𝐞𝐚𝐫𝐜𝐡 𝐁𝐨𝐭 𝐨𝐫 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐜𝐚𝐥𝐥 𝐦𝐞 𝐚𝐬 𝐀𝐮𝐭𝐨-𝐅𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>
-
-<b>Maintained By @Mo_Tech_YT</b>"""    
+<b>©️MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href=tg://user?id=1704157292>FARSHAD K</b>"""    
     
     HELP_TEXT = """
 <b><u>Notice</u></b>
