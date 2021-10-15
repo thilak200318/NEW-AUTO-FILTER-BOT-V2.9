@@ -80,12 +80,7 @@ async def start(bot, update):
                               '👩‍💻MyDev', url='https://t.me/farshadck'
                           )
                   
-                  ],
-                  [
-                      Mo_Tech_YT.MO_TECH_YT_02
-                          (
-                              '🚶Help', callback_data='help'
-                          )
+                  
                   ]           
               ]
 
