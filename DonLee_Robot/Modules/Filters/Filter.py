@@ -306,7 +306,7 @@ async def auto_filter(bot, update):
 
             await bot.send_photo(
                 photo=movie_url,
-                caption=f"""🎬 Title : {query}\n🗃️ Total Files : {len_results if len_results <= max_pages*8 else max_pages*8}</b>\n🌟 8.7/10 | IMDb\n🎭 Genres: Document, Drama, Climax Thriller\nRequsted By :LOGGER(__name__).error(e)""",
+                caption=f"""🎬 Title : {query}\n🗃️ Total Files : {len_results if len_results <= max_pages*8 else max_pages*8}</b>\n🌟 8.7/10 | IMDb\n🎭 Genres: Document, Drama, Climax Thriller\nRequsted By :(__name__)""",
                 reply_markup=reply_markup,
                 chat_id=update.chat.id,
                 reply_to_message_id=update.message_id,
