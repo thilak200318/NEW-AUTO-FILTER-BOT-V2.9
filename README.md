@@ -20,7 +20,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 
 ------
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farshadpyt/NEW-AUTO-FILTER-BOT-V2.9)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thilak200318/NEW-AUTO-FILTER-BOT-V2.9/edit/main/README.md)
 ### Hard Way
 
 #### FEATURE
